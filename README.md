@@ -29,8 +29,18 @@ We are going to go deeper into the bug and the system with researching how the b
 
 # Updates:
 2024-04-09 We are going to start the Research today and continue to 2024-04-25
+
+--------------------------------------------------------------------------------------------------------------------------------
 2024-04-25 We are going to start the Fuzzing and searching for the bugs until 2024-05-21
+
+--------------------------------------------------------------------------------------------------------------------------------
 2024-05-21 We are going to start the bug act and see how it will act until 2024-06-18
+
+--------------------------------------------------------------------------------------------------------------------------------
 2024-06-18 We are going to start exploiting the bug and see how it works and find other similar until 2024-07-16
+
+--------------------------------------------------------------------------------------------------------------------------------
 2024-07-16 We are going to start documenting how the bug acts with the exploited code and if acts similar as before until 2024-08-20
+
+--------------------------------------------------------------------------------------------------------------------------------
 2024-08-20 We are going to start documenting and alerting Microsoft how the project goes and what will happen and see if we can help fix it and maybe get hired by Microsoft. :)
